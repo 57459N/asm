@@ -10,6 +10,7 @@ extern "C" int lab6(int n, int div);
 extern "C" bool lab7(int n, int k);
 extern "C" int lab8(int n, int* arr);
 extern "C" int lab9();
+extern "C" int lab10();
 
 int main() {
 
