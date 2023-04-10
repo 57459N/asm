@@ -28,9 +28,9 @@ int main() {
 	
 	// std::cout << "lab 7: " << lab7(111, 3) << std::endl;
 
-	 int arr[] = { 3,5,45,15 };
-	 std::cout << "lab 8: " << lab8(4, arr) << std::endl;
+	/* int arr[] = { 3,5,45,15 };
+	 std::cout << "lab 8: " << lab8(4, arr) << std::endl;*/
 
-	// std::cout << "lab 9: " << lab9() << std::endl;
+	 std::cout << "lab 9: " << lab9() << std::endl;	
 
 }
